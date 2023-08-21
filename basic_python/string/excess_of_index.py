@@ -1,0 +1,10 @@
+name = 'prathamesh is good boy'
+print(name[0])
+# print(name[14])
+# print(name[12])
+# print(name[1:2])
+# print(name[1:10])
+print(name[0:18])
+# print(name[:15])
+# print(name[::2])
+# print(name[3:20:4])
